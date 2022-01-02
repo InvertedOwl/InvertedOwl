@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @InvertedOwl
 - 👀 I’m interested in coding Spigot plugins
 - 🌱 I’m currently learning MySQL
-- 💞️ I’m looking to collaborate on not much
-- 📫 How to reach me InvertedOwl#0001 on discord 
+- 📫 How to reach me > InvertedOwl#0001 on discord 
 
 <!---
 InvertedOwl/InvertedOwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
