@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InvertedOwl
-- 👀 I’m interested in coding Spigot plugins
-- 🌱 I’m currently learning MySQL
+- 👀 Im ashamed to like javascript and typscript
+- 🌱 Im currently creating a visual programming language at is.invertedowl.com
 - 📫 How to reach me > InvertedOwl#0001 on discord 
 
 <!---
